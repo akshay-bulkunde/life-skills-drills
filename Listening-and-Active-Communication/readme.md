@@ -69,4 +69,4 @@ To communicate assertively, try to:
 2. **Express your emotions**: Share how you feel and why.
 3. **Show empathy**: Acknowledge the other person's feelings.
 4. **Stay calm**: Be firm, but respectful.
-5. **Use matching body language**: Align your body language with your assertive tone.
+5. **Use matching body language**: Align your body language with your assertive tone tone.
