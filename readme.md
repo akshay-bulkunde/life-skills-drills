@@ -17,6 +17,6 @@ If you encounter or witness sexual harassment, follow these steps:
 2. **Document the details**, including dates, times, and witnesses involved.
 3. **Avoid direct confrontation** with the harasser if you feel unsafe.
 4. **Refer to your company's harassment policies** for guidance on handling such issues.
-5. **Seek external support**, such as legal or regulatory bodies (e.g., WorkSafeBC), if needed.
+5. **Seek external support**, such as legal or regulatory bodies (e.g., WorkSafeBC), if needed needed.
 
 
